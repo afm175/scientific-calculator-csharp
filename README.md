@@ -5,6 +5,6 @@
 Files:<br>
 <ul>
  <li>Form1.cs - GUI of calculator</li>
- <li>Program.cs - intialization</li>
+ <li>Program.cs - initialization</li>
  <li>Class1.cs - class RPN with to private methods(GetExpression(input2rpn) and Counting(rpn2result)) and one public method (Calculate (input2result)), many additional static methods and classes of my own Exceptions</li>
 </ul>
