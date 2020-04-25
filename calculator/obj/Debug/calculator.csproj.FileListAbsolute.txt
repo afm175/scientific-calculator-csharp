@@ -10,3 +10,14 @@ D:\Programming\Visual Studio 2013\Projects\Lab10\calculator\calculator\obj\Debug
 D:\Programming\Visual Studio 2013\Projects\Lab10\calculator\calculator\obj\Debug\calculator.csproj.GenerateResource.Cache
 D:\Programming\Visual Studio 2013\Projects\Lab10\calculator\calculator\bin\Debug\calculator.exe.CodeAnalysisLog.xml
 D:\Programming\Visual Studio 2013\Projects\Lab10\calculator\calculator\bin\Debug\calculator.exe.lastcodeanalysissucceeded
+F:\program\Git\scientific-calculator-csharp\calculator\bin\Debug\calculator.exe
+F:\program\Git\scientific-calculator-csharp\calculator\bin\Debug\calculator.pdb
+F:\program\Git\scientific-calculator-csharp\calculator\bin\Debug\control1.pdb
+F:\program\Git\scientific-calculator-csharp\calculator\obj\Debug\calculator.csprojAssemblyReference.cache
+F:\program\Git\scientific-calculator-csharp\calculator\obj\Debug\calculator.Form1.resources
+F:\program\Git\scientific-calculator-csharp\calculator\obj\Debug\calculator.Properties.Resources.resources
+F:\program\Git\scientific-calculator-csharp\calculator\obj\Debug\calculator.csproj.GenerateResource.cache
+F:\program\Git\scientific-calculator-csharp\calculator\obj\Debug\calculator.csproj.CoreCompileInputs.cache
+F:\program\Git\scientific-calculator-csharp\calculator\obj\Debug\calculator.csproj.CopyComplete
+F:\program\Git\scientific-calculator-csharp\calculator\obj\Debug\calculator.exe
+F:\program\Git\scientific-calculator-csharp\calculator\obj\Debug\calculator.pdb
